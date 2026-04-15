@@ -1,4 +1,4 @@
-# 📊 Análisis de Tasas de Interés y Oportunidades de Mercado — *Scotiabank México*
+# 📊 Análisis de Tasas de Interés y Oportunidades de Mercado
 
 **Autor:** José Pablo García Meza  
 **Periodo de análisis:** 2019–2024  
